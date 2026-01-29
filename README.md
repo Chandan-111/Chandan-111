@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Node.js<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently learning Devops<br>⚡ Fun fact i'm a protographer too
+🔭 I’m currently working on React and Node.js<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m currently learning about RAG <br>⚡ Fun fact i'm a protographer too
 
 
 ## 🌐 Socials:
